@@ -21,7 +21,7 @@
             <div class="UD2" id="2">
                 <p>SERVIDOR WEB SEGURO</p>
                 
-                <a href="./doc/USED.pdf" class="ej"  target="_blank">USED</a>
+                <a href="https://github.com/AlvaroCalde/ACPDAWProyectoDAW/blob/master/docs/ServidorDeDesarrollo.md" class="ej"  target="_blank">USED</a>
                 
             </div> 
         

@@ -1,3 +1,4 @@
+DirectoryIndex indexProyectoCIB.php
 Options -Indexes
 
 ErrorDocument 404 /error/error.html

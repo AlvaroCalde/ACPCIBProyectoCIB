@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DWES- Álvaro Calderón Pérez</title>
+    <title>CIB- Álvaro Calderón Pérez</title>
     <link rel="icon" type="image/jpg" href="/webroot/favicon/logo_BC.jpg">
     <link rel="stylesheet" href="./webroot/css/estilos.css">
 </head>
@@ -28,6 +28,7 @@
         
             <div class="UD3" id="3"> 
                 <p>APLICACIÓN WEB SEGURA</p>
+                <a href="../ACPDWESProyectoLoginLogoffTema5/indexProyectoLoginLogoffTema5.php" class="ej">LoginLogoff Tema 5</a>
             </div>
         
             <div class="UD4" id="4"> 
@@ -37,12 +38,7 @@
     </main>           
     <footer>
         <address>2026-27 IES Los Sauces Álvaro Calderón Pérez. Todos los derechos reservados.</address>
-        <a href="https://github.com/AlvaroCalde/ACPCIBProyectoCIB" target="blank"><img src="/webroot/images/github.png" alt="enlace a github" ></a>
-        <!--
-        <a type="application/rss" href="/rss/rss.xml">
-            <img src="/webroot/images/rss_imagen.png" alt="imagen rss">
-        </a>  
-        -->                       
+        <a href="https://github.com/AlvaroCalde/ACPCIBProyectoCIB" target="blank"><img src="/webroot/images/github.png" alt="enlace a github" ></a>                     
     </footer>
 </body>
 </html>
